@@ -31,7 +31,7 @@ An immersive coffee shop simulation game where players manage a cafe, brew coffe
 - **Features**: Upgrade systems, resource management, weather effects, and a cozy pixel-art aesthetic.
 - **Tech**: Vanilla JavaScript, HTML5 Canvas.
 
-### 🗣️ **Kid-Friendly Communication App**
+### 🗣️ **FriendTalk**
 A fun and engaging app designed to teach children positive communication skills.
 - **Features**: "Magic words," scenario-based learning, and a reward system with kindness stars.
 - **Tech**: Interactive Web App.
