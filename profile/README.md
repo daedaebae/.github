@@ -36,5 +36,10 @@ A fun and engaging app designed to teach children positive communication skills.
 - **Features**: "Magic words," scenario-based learning, and a reward system with kindness stars.
 - **Tech**: Interactive Web App.
 
+### 📈 **Econoverse**
+A simulation game focused on economic systems.
+- **Features**: "Econogame!" - an exploration of economic mechanics in a game environment.
+- **Tech**: GDScript, Godot.
+
 ---
 [![](https://visitcount.itsvg.in/api?id=daedaebae&label=Profile%20Views&color=0&icon=0&pretty=true)](https://github.com/daedaebae)
