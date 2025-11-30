@@ -1,5 +1,8 @@
 # Hi there, I'm Durf! 👋
 
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/durf)
+
+
 I'm a Full Stack Developer with a passion for building engaging web applications, educational tools, and interactive games. I love exploring new technologies and creating user-friendly experiences that solve real-world problems.
 
 ## 🚀 About Me
